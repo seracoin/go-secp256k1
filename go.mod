@@ -1,4 +1,4 @@
-module github.com/sedracoin/sedrad/go-secp256k1
+module github.com/sedracoin/go-secp256k1
 
 go 1.13
 
